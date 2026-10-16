@@ -1,0 +1,6 @@
+OrderID,Branch,Product,Quantity,UnitPrice,Total
+1001,Riyadh,Laptop,2.0,3200,6400.0
+1002,Jeddah,Tablet,1.0,1500,1500.0
+1003,Najran,Mouse,5.0,90,450.0
+1002,Riyadh,Laptop,2.0,3200,6400.0
+1035,Najran,Smartwatch,2.0,750,1500.0
