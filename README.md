@@ -29,6 +29,7 @@ Welcome to my personal archive and portfolio showcasing my learning journey in *
 | `04_logistic_full_visuals.py` | Advanced Visualization | Confusion matrix, Decision Boundaries, Seaborn |
 | `05_cafe_sales_project.py` | Cafe Sales Capstone Project | Sales EDA, feature engineering, business insights |
 | `06_cafe_6_plots.py` | Exploratory Plots | Multi-panel Seaborn & Matplotlib visual dashboards |
+| `07_decision_tree.py` | Decision Tree Classifier | Supervised learning, classification metrics (Accuracy: 100%) |
 
 ---
 
@@ -43,4 +44,3 @@ This repository highlights a professional **Before & After** data processing wor
 1. Clone the repository:
    ```bash
    git clone [https://github.com/atheermq/Atheer-Python-Machine-Learning.git](https://github.com/atheermq/Atheer-Python-Machine-Learning.git)
-   
